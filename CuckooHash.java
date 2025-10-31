@@ -1,6 +1,6 @@
 /******************************************************************
  *
- *   YOUR NAME / SECTION NUMBER
+ *   Juan Donoso / Comp 272 002
  *
  *   Note, additional comments provided throughout this source code
  *   is for educational purposes
